@@ -1,7 +1,7 @@
 # Hi there, I'm Lalit! 👋
 
 - 🌱 I’m currently doing **Cloud** and **DevOps**
-- 👨‍💻 All of my projects are available at **[][website]**
+- 👨‍💻 All of my projects are available at **[lalitgr.xyz][website]**
 - 📝 I regulary write articles on **]**
 - 📫 How to reach me **rajpurohitlalit181@gmail.com**
 
