@@ -6,7 +6,7 @@
 
 ## 😎 Connect with me
 
-![Website](https://img.shields.io/badge/lalitgr.xyz-badge?style=flat&logo=pagekit&logoColor=grey&link=www.lalitgr.xyz)
+![Static Badge](https://img.shields.io/badge/lalitgr.xyz-link?style=for-the-badge&logo=pagekit&logoColor=grey&color=black&link=www.lalitgr.xyz)
 [![Linkedin]()][linkedin]
 
 
