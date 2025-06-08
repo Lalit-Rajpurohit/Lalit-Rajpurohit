@@ -1,4 +1,4 @@
-# Hi there, I'm Lalit! 👋    www.lalitgr.xyz
+# Hi there, I'm Lalit! 👋
 
 - 🌱 I’m currently doing **Cloud** and **DevOps**
 - 👨‍💻 All of my projects are available at **www.lalitgr.xyz**
