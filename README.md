@@ -6,7 +6,7 @@
 
 ## 😎 Connect with me
 
--📃 Portolio www.lalitgr.xyz
+-📃 Portolio:  www.lalitgr.xyz
 
 ## 👨‍💻 Technologies and Tools
 
