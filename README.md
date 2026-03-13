@@ -211,6 +211,15 @@ const lalit = {
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">CloudCost - AWS Cost Monitor</h3>
+<p align="center">
+  <a href="https://github.com/Lalit-Rajpurohit/CloudCost">
+    <img src="https://img.shields.io/badge/View_Project-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  </a>
+</p>
+<p align="center">AWS cost monitoring app with budget alerts, REST APIs, and React dashboard</p>
+</td>
+<td width="50%">
 <h3 align="center">AWS 3-Tier Architecture</h3>
 <p align="center">
   <a href="https://github.com/Lalit-Rajpurohit/aws-3-tier-architecture">
@@ -219,6 +228,8 @@ const lalit = {
 </p>
 <p align="center">Production-ready 3-tier web architecture with VPC, ALB, Auto Scaling, and RDS</p>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <h3 align="center">Containerized Web App (ECS Fargate)</h3>
 <p align="center">
@@ -228,8 +239,6 @@ const lalit = {
 </p>
 <p align="center">Serverless container deployment with ECS Fargate, ALB, and Auto Scaling</p>
 </td>
-</tr>
-<tr>
 <td width="50%">
 <h3 align="center">Serverless Contact Form</h3>
 <p align="center">
@@ -239,6 +248,8 @@ const lalit = {
 </p>
 <p align="center">Serverless architecture using Lambda, API Gateway, and SES</p>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <h3 align="center">E2EE Chat Application</h3>
 <p align="center">
@@ -248,8 +259,6 @@ const lalit = {
 </p>
 <p align="center">End-to-End Encrypted real-time chat with secure communication</p>
 </td>
-</tr>
-<tr>
 <td width="50%">
 <h3 align="center">Banking System</h3>
 <p align="center">
@@ -259,6 +268,8 @@ const lalit = {
 </p>
 <p align="center">Full-featured banking application with Java & Spring Boot</p>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <h3 align="center">Static Website Hosting</h3>
 <p align="center">
@@ -267,6 +278,8 @@ const lalit = {
   </a>
 </p>
 <p align="center">Scalable static hosting with AWS Amplify & Route 53</p>
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
