@@ -280,6 +280,13 @@ const lalit = {
 <p align="center">Scalable static hosting with AWS Amplify & Route 53</p>
 </td>
 <td width="50%">
+<h3 align="center">AI Architect – System Design Generator</h3>
+<p align="center">
+  <a href="https://github.com/Lalit-Rajpurohit/AI-System-Design-Generator">
+    <img src="https://img.shields.io/badge/View_Project-7B42BC?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+</p>
+<p align="center">AI-powered platform that transforms requirements into complete system architecture designs</p>
 </td>
 </tr>
 </table>
