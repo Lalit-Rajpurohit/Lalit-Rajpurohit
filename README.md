@@ -2,7 +2,7 @@
 
 # Hey there! I'm Lalit Rajpurohit 👋
 
-### Cloud & DevOps Engineer | Backend Developer | AWS & Azure Certified
+### Cloud & DevOps Engineer | Spring Boot Developer | AI Integration Specialist | AWS & Azure Certified
 
 <p>
   <a href="https://www.lalitgr.xyz/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -11,7 +11,7 @@
   <a href="https://github.com/Lalit-Rajpurohit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Infrastructure;Automating+Everything+with+DevOps;Crafting+Secure+Backend+Systems;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Infrastructure;Automating+Everything+with+DevOps;Crafting+Secure+Backend+Systems;Building+AI+Agents+%26+LLM+Integrations;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +21,7 @@
 
 I'm a **Cloud and DevOps Engineer** passionate about designing, deploying, and automating modern cloud infrastructure. I specialize in building **scalable, secure, and highly available systems** using AWS, Azure, containerization platforms, Infrastructure as Code, and CI/CD pipelines.
 
-Beyond cloud engineering, I'm experienced in **backend development** with Java and Spring Boot, building secure REST APIs and distributed systems that integrate seamlessly with cloud environments.
+Beyond cloud engineering, I'm experienced in **backend development** with Java and Spring Boot, building secure REST APIs and distributed systems that integrate seamlessly with cloud environments. I also leverage **AI and LLM technologies** to build intelligent automation workflows, AI-powered agents, and enhance development productivity with modern AI coding tools.
 
 ```javascript
 const lalit = {
@@ -204,12 +204,56 @@ const lalit = {
 </p>
 </details>
 
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+<p><b>AI API & LLM Integration</b></p>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+</p>
+<p><b>AI Agents & Automation</b></p>
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenClaw-7C3AED?style=for-the-badge&logo=robot&logoColor=white" alt="OpenClaw"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Agent_Workflows-10B981?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agent Workflows"/>
+  <img src="https://img.shields.io/badge/Tool_Calling-F59E0B?style=for-the-badge&logo=openai&logoColor=white" alt="Tool Calling"/>
+</p>
+<p><b>AI + DevOps</b></p>
+<p>
+  <img src="https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps"/>
+  <img src="https://img.shields.io/badge/AI--assisted_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="AI-assisted IaC"/>
+  <img src="https://img.shields.io/badge/AI_Code_Review-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Code Review"/>
+  <img src="https://img.shields.io/badge/AI--powered_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="AI-powered Pipelines"/>
+</p>
+<p><b>AI Coding & Dev Tools</b></p>
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/AI_Pair_Programming-6366F1?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="AI Pair Programming"/>
+</p>
+</details>
+
 ---
 
 ## 🔥 Featured Projects
 
 <table>
 <tr>
+<td width="50%">
+<h3 align="center">AI Tools Discovery Agent</h3>
+<p align="center">
+  <a href="https://github.com/Lalit-Rajpurohit/AI-Tools-Discovery-Agent">
+    <img src="https://img.shields.io/badge/View_Project-FF6F00?style=for-the-badge&logo=n8n&logoColor=white"/>
+  </a>
+</p>
+<p align="center">Local-first tool (n8n + Docker + LLM) to discover AI tools on GitHub with daily email digests</p>
+</td>
 <td width="50%">
 <h3 align="center">CloudCost - AWS Cost Monitor</h3>
 <p align="center">
