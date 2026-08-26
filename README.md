@@ -5,7 +5,6 @@
 ### Cloud & DevOps Engineer | Spring Boot Developer | AI Integration Specialist | AWS & Azure Certified
 
 <p>
-  <a href="https://www.lalitgr.xyz/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/lalit-rajpurohit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:rajpurohitlalit181@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Lalit-Rajpurohit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -375,8 +374,17 @@ const lalit = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lalit-Rajpurohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-Rajpurohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalit-Rajpurohit&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lalit-Rajpurohit&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lalit-Rajpurohit&theme=tokyonight" alt="Top Languages by Commit"/>
+</div>
+
+<div align="center">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lalit-Rajpurohit&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lalit-Rajpurohit&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
 <div align="center">
@@ -403,7 +411,6 @@ const lalit = {
 
 <a href="https://www.linkedin.com/in/lalit-rajpurohit"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:rajpurohitlalit181@gmail.com"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.lalitgr.xyz/"><img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 ---
 
