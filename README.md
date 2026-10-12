@@ -355,8 +355,18 @@ const lalit = {
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
+### AWS Cloud & DevOps Intern
+**Emplay Inc** | May 2026 - Present
+
+- Provision and manage AWS infrastructure — **EC2, EBS, IAM, VPC, security groups**
+- Administer Linux servers — instance setup, package management, storage, permissions, hardening
+- Deployed **Docker** & containerized workloads on EC2, moving container data to dedicated EBS volumes with symlink-based persistence
+- Troubleshoot infrastructure & connectivity issues — security groups, port access, storage, server-level config
+- Contribute to **EGCP** (internal Emplay platform) — CVE alert mailing and audit report features
+- Git-based deployment workflows, technical documentation, and knowledge-transfer sessions
+
 ### Web Development & Cloud Intern
-**Jetro Solutions** *(Remote)* | Dec 2025 - Present
+**Jetro Solutions** *(Remote)* | Dec 2025 - Mar 2026
 
 - Designed and developed responsive company websites using modern web technologies
 - Deployed websites to live production environments ensuring availability and performance
